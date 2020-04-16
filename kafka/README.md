@@ -22,3 +22,5 @@ it's convinent to set ssh login withou password before use this script.
 ## 3.1 Producer without Callback function 
 
 [source code](https://github.com/haveacupofcoffee/bigdata/blob/master/kafka/src/main/java/com/codingforfun/producer/CustomProducer.java)
+
+![Result](https://github.com/haveacupofcoffee/bigdata/blob/master/kafka/src/main/resources/images/customproducer.PNG)
